@@ -2,7 +2,15 @@
 
 #### Installation du serveur DNS
 
+![]()
 
+![]()
+
+![]()
+
+![]()
+
+![]()
 
 #### Configuration du serveur DNS
 
