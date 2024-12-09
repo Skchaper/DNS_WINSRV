@@ -113,6 +113,20 @@ L'adresse **172.20.0.1** correspond au domaine **ns1.wilders.lan**.
 
 #### Enregistrement CNAME
 
+Clic droit dans la zone de recherche, sélectionner **Nouvel alias (CNAME)**.
+![NOUVEL_ALIAS_1.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/CNAME/NOUVEL_ALIAS_1.png)
+
+Renseigner le nom d'enregistrement, ici **dns-server-1**, puis cliquer sur **Parcourir**.
+![NOUVEL_ENREGISTREMENT_2.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/CNAME/NOUVEL_ENREGISTREMENT_2.png)
+
+Sélectionner l'entregistrement DNS vers lequel l'enregistrement CNAME doit pointer.
+![SELECTIONNER_ZONE_3.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/CNAME/SELECTIONNER_ZONE_3.png)
+
+Le domaine **dns-server-1.wilders.lan** pointera vers la même adresse IP que le domaine **ns1.wilders.lan**.
+![POINTAGE_DOMAINE_4.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/CNAME/POINTAGE_DOMAINE_4.png)
+
+Nous pouvons voir l'enregistrement dans la zone de recherche directe.
+![](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/CNAME/VOIR_ENREGISTREMENT_5.png)
 
 #### Enregistrement MX
 
