@@ -66,30 +66,30 @@ Cliquer sur **Terminer**.
 #### Créer une zone de recherche inversée (adresse IP --> domaine)
 
 Clic droit sur **Zone de recherche inversée** puis cliquer sur **Nouvelle zone**.
-![]()
+![NOUVELLE_ZONE_1.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/NOUVELLE_ZONE_1.png)
 
 Cliquer sur **Suivant** dans l'assistant.
-![]()
+![SUIVANT_2.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/SUIVANT_2.png)
 
 Sélectionner **Zone principale**.
-![]()
+![ZONE_PRINCIPALE_3.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/ZONE_PRINCIPALE_3.png)
 
 Cliquer sur **Zone de recherche inversée IPv4**.
-![]()
+![ZONE_IPv4_4.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/ZONE_IPv4_4.png)
 
 Entrer l'**ID réseau**.
-![]()
+![ADRESSE_RESEAU_5.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/ADRESSE_RESEAU_5.png)
 
 Pour la zone de recherche, Windows Server crée par défaut un fichier de zone, cliquer sur **Suivant**.
-![]()
+![NOM_FICHIER_6.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/NOM_FICHIER_6.png)
 
 Désactiver les mises à jour en cochant **Ne pas autoriser les mises à jour dynamiques**.
-![]()
+![PAS_AUTORISER_7.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/PAS_AUTORISER_7.png)
 
 Cliquer sur **Terminer**.
-![]()
+![TERMINER_8.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/TERMINER_8.png)
 
 Désormais, nous avons une zone de recherche directe et sa zone de recherche inversée correspondante.
-![]()
+![ZONES_9.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/ZONES_9.png)
 
 #### Communication : 2 noms distincts
