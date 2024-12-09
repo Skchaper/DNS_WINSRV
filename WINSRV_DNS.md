@@ -40,5 +40,56 @@ Renseigner les **Adresses IP**, ici test avec les adresses DNS de Google.
 Enfin, choisir les indications de racine en cas de non configuration ou d'absence de réponse, ici **A.ROOT-SERVERS.NET.**.
 ![A_ROOT-SERVERS_7.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensConfig/A_ROOT-SERVERS_7.png)
 
+#### Créer une zone de recherche directe (domaine --> adresse IP)
+
+Clic droit sur **Zones de recherche directe**, puis ciquer sur **Nouvelle Zone**.
+![]()
+
+**Suivant** sur l'assistant.
+![]()
+
+Sélectionner **Zone principale**.
+![]()
+
+Entrer le **Nom de la zone**.
+![]()
+
+Cliquer sur **Suivant** en laissant le nouveau fichier nommé tel quel.
+![]()
+
+Cocher **Ne pas autoriser les mises à jour dynamiques**.
+![]()
+
+Cliquer sur **Terminer**.
+![]()
+
+#### Créer une zone de recherche inversée (adresse IP --> domaine)
+
+Clic droit sur **Zone de recherche inversée** puis cliquer sur **Nouvelle zone**.
+![]()
+
+Cliquer sur **Suivant** dans l'assistant.
+![]()
+
+Sélectionner **Zone principale**.
+![]()
+
+Cliquer sur **Zone de recherche inversée IPv4**.
+![]()
+
+Entrer l'**ID réseau**.
+![]()
+
+Pour la zone de recherche, Windows Server crée par défaut un fichier de zone, cliquer sur **Suivant**.
+![]()
+
+Désactiver les mises à jour en cochant **Ne pas autoriser les mises à jour dynamiques**.
+![]()
+
+Cliquer sur **Terminer**.
+![]()
+
+Désormais, nous avons une zone de recherche directe et sa zone de recherche inversée correspondante.
+![]()
 
 #### Communication : 2 noms distincts
