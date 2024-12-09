@@ -140,7 +140,11 @@ Renseigner les informations pour l'enregistrement MX.
 
 ![NSLOOKUP_SERVER.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/NSLOOKUP_SERVER.png)
 
+![RECHERCHE_INVERSEE_SRV.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/RECHERCHE_INVERSEE_SRV.png)
+
 #### Test Machine Client
 
 ![NSLOOKUP_CLIENT.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/NSLOOKUP_CLIENT.png)
+
+![RECHERCHE_INVERSEE_CLI.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/RECHERCHE_INVERSEE_CLI.png)
 
