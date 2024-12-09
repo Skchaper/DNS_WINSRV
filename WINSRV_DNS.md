@@ -130,7 +130,11 @@ Nous pouvons voir l'enregistrement dans la zone de recherche directe.
 
 #### Enregistrement MX
 
+Clic droit, sélectionner **Nouveau serveur de messagerie (MX)**.
+![NOUVEAU_MESSAGERIE_1.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/MX/NOUVEAU_MESSAGERIE_1.png)
 
+Renseigner les informations pour l'enregistrement MX.
+![INFO_MAIL_2.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/MX/INFO_MAIL_2.png)
 
 
 #### Communication : 2 noms distincts
