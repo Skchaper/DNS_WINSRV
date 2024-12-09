@@ -92,4 +92,31 @@ Cliquer sur **Terminer**.
 Désormais, nous avons une zone de recherche directe et sa zone de recherche inversée correspondante.
 ![ZONES_9.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/ZONES_9.png)
 
+#### Créer des enregistrements DNS
+
+#### Enregistrement DNS A ou AAAA
+
+Clic droit dans la zone de recherche puis cliquer sur **Nouvel Hôte**.
+![NOUVEL_HOTE_1.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/POINTAGE/NOUVEL_HOTE_1.png)
+
+Spécifier les informations.
+![INFO_HOTE_2.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/POINTAGE/INFO_HOTE_2.png)
+
+Confirmation de la création du pointage.
+![CONFIRMATION_3.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/POINTAGE/CONFIRMATION_3.png)
+
+**ns1.wilders.lan** pointe vers l'adresse IPv4 **172.20.0.1**.
+![POINTAGE_DOMAINE_4.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/POINTAGE/POINTAGE_DOMAINE_4.png)
+
+L'adresse **172.20.0.1** correspond au domaine **ns1.wilders.lan**.
+![POINTAGE_IP_5.](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/POINTAGE/POINTAGE_IP_5.png)
+
+#### Enregistrement CNAME
+
+
+#### Enregistrement MX
+
+
+
+
 #### Communication : 2 noms distincts
