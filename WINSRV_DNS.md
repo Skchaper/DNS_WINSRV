@@ -43,25 +43,25 @@ Enfin, choisir les indications de racine en cas de non configuration ou d'absenc
 #### Créer une zone de recherche directe (domaine --> adresse IP)
 
 Clic droit sur **Zones de recherche directe**, puis ciquer sur **Nouvelle Zone**.
-![]()
+![NOUVELLE_ZONE_1.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneDirecte/NOUVELLE_ZONE_1.png)
 
 **Suivant** sur l'assistant.
-![]()
+![SUIVANT_2.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneDirecte/SUIVANT_2.png)
 
 Sélectionner **Zone principale**.
-![]()
+![ZONE_PRINCIPALE_3.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneDirecte/ZONE_PRINCIPALE_3.png)
 
 Entrer le **Nom de la zone**.
-![]()
+![NOM_ZONE_4.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneDirecte/NOM_ZONE_4.png)
 
 Cliquer sur **Suivant** en laissant le nouveau fichier nommé tel quel.
-![]()
+![NOM_FICHIER_5.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneDirecte/NOM_FICHIER_5.png)
 
 Cocher **Ne pas autoriser les mises à jour dynamiques**.
-![]()
+![PAS_AUTORISER_6.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneDirecte/PAS_AUTORISER_6.png)
 
 Cliquer sur **Terminer**.
-![]()
+![TERMINER_7.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneDirecte/TERMINER_7.png)
 
 #### Créer une zone de recherche inversée (adresse IP --> domaine)
 
