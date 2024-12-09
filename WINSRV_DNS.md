@@ -138,7 +138,7 @@ Renseigner les informations pour l'enregistrement MX.
 
 #### Test Serveur
 
-![]()
+![NSLOOKUP_SERVER.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/NSLOOKUP_SERVER.png)
 
 #### Test Machine Client
 
