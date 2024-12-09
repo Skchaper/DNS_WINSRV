@@ -19,7 +19,7 @@ Cliquer sur **Installer**.
 
 Le rôle **Serveur DNS** est installé sur l'Active Directory.
 
-#### Configuration du serveur DNS
+## Configuration du serveur DNS
 
 Accéder au **Gestionnaire de serveur > DNS**.
 ![GESTIONNAIRE_DNS_1.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensConfig/GESTIONNAIRE_DNS_1.png)
@@ -92,7 +92,7 @@ Cliquer sur **Terminer**.
 Désormais, nous avons une zone de recherche directe et sa zone de recherche inversée correspondante.
 ![ZONES_9.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/ScreensZones/ScreensZoneInvers%C3%A9e/ZONES_9.png)
 
-#### Créer des enregistrements DNS
+## Créer des enregistrements DNS
 
 #### Enregistrement DNS A ou AAAA
 
@@ -136,5 +136,11 @@ Clic droit, sélectionner **Nouveau serveur de messagerie (MX)**.
 Renseigner les informations pour l'enregistrement MX.
 ![INFO_MAIL_2.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/Sous-domaines/MX/INFO_MAIL_2.png)
 
+#### Test Serveur
 
-#### Communication : 2 noms distincts
+![]()
+
+#### Test Machine Client
+
+![NSLOOKUP_CLIENT.png](https://github.com/Skchaper/DNS_WINSRV/blob/main/Screens/NSLOOKUP_CLIENT.png)
+
